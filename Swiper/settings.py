@@ -76,8 +76,8 @@ DATABASES = {
         # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'swiper',
-        'HOST': 'localhost',
-        'USER': 'demon',
+        'HOST': '123.56.82.187',
+        'USER': 'idol',
         'PASSWORD': '123456',
         'PORT': '3306',
     }
